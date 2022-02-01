@@ -13,8 +13,8 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
-  - name: UNITEC
-    url: https://www.unitec.edu
+  - name: FPM Frontend
+    url: https://devfpm.airlinemro.parts
     
 assignees:
   - mario-galindo
