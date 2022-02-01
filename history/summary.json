@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/devauth.airlinemro.parts",
     "slug": "api-authentication",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "6.44%",
+    "uptimeDay": "6.44%",
+    "uptimeWeek": "6.44%",
+    "uptimeMonth": "6.44%",
+    "uptimeYear": "6.44%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-01": 117
+      "2022-02-01": 123
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 93,
-    "timeDay": 93,
-    "timeWeek": 93,
-    "timeMonth": 93,
-    "timeYear": 93,
+    "time": 90,
+    "timeDay": 90,
+    "timeWeek": 90,
+    "timeMonth": 90,
+    "timeYear": 90,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/devfpm.airlinemro.parts",
     "slug": "fpm-frontend",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "7.79%",
+    "uptimeDay": "7.79%",
+    "uptimeWeek": "7.79%",
+    "uptimeMonth": "7.79%",
+    "uptimeYear": "7.79%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-01": 83
+      "2022-02-01": 90
     }
   },
   {
@@ -68,11 +68,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 355,
-    "timeDay": 355,
-    "timeWeek": 355,
-    "timeMonth": 355,
-    "timeYear": 355,
+    "time": 256,
+    "timeDay": 256,
+    "timeWeek": 256,
+    "timeMonth": 256,
+    "timeYear": 256,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "AMP Static Site",
+    "url": "https://www.airlinemro.parts",
+    "icon": "https://favicons.githubusercontent.com/www.airlinemro.parts",
+    "slug": "amp-static-site",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 853,
+    "timeDay": 853,
+    "timeWeek": 853,
+    "timeMonth": 853,
+    "timeYear": 853,
     "dailyMinutesDown": {}
   }
 ]
