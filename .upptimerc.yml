@@ -11,6 +11,8 @@ sites:
     url: https://devfpm.airlinemro.parts
   - name: FPM Direct App Service
     url: https://fpm-dev-app.azurewebsites.net
+  - name: AMP Static Site
+    url: https://www.airlinemro.parts
     
 assignees:
   - mario-galindo
