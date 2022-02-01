@@ -1,38 +1,36 @@
-# Change these first
-owner: mario-galindo # Your GitHub organization or username, where this repository lives
-repo: monitor # The name of this repository
+owner: mario-galindo
+repo: monitor
 
 sites:
-  - name: API Authentication
+  - name: FPM[Dev] | Authentication API
     url: https://devauth.airlinemro.parts
     __dangerous__disable_verify_peer: true
-  - name: Google
-    url: https://www.google.com
-  - name: FPM Frontend
+  
+  - name: FPM[Dev] | Management API
+    url: https://devmanagement.airlinemro.parts
+    __dangerous__disable_verify_peer: true
+
+  - name: FPM[Dev] | Manual Queue API
+    url: https://devmqueue.airlinemro.parts
+    __dangerous__disable_verify_peer: true
+
+  - name: FPM[Dev] | Frontend
     url: https://devfpm.airlinemro.parts
-  - name: FPM Direct App Service
-    url: https://fpm-dev-app.azurewebsites.net
-  - name: AMP Static Site
-    url: https://www.airlinemro.parts
+    __dangerous__disable_verify_peer: true
+  
     
 assignees:
   - mario-galindo
  
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
   baseUrl: /monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**FPM Module** this is a site to monitor public endpoint health, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data.
+  introTitle: "**FPM Status Monitor**
+  introMessage: Status page which uses **real-time** data.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
