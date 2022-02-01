@@ -27,7 +27,7 @@ status-website:
   baseUrl: /monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**FPM Status Monitor**
+  introTitle: "**FPM Status Monitor**"
   introMessage: Status page which uses **real-time** data.
   navbar:
     - title: Status
