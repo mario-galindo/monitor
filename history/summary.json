@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/devauth.airlinemro.parts",
     "slug": "api-authentication",
     "status": "down",
-    "uptime": "0.21%",
-    "uptimeDay": "0.21%",
-    "uptimeWeek": "0.21%",
-    "uptimeMonth": "0.21%",
-    "uptimeYear": "0.21%",
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-01": 8
+      "2022-02-01": 15
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 109,
-    "timeDay": 109,
-    "timeWeek": 109,
-    "timeMonth": 109,
-    "timeYear": 109,
+    "time": 103,
+    "timeDay": 103,
+    "timeWeek": 103,
+    "timeMonth": 103,
+    "timeYear": 103,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 409,
-    "timeDay": 409,
-    "timeWeek": 409,
-    "timeMonth": 409,
-    "timeYear": 409,
+    "time": 373,
+    "timeDay": 373,
+    "timeWeek": 373,
+    "timeMonth": 373,
+    "timeYear": 373,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 258,
-    "timeDay": 258,
-    "timeWeek": 258,
-    "timeMonth": 258,
-    "timeYear": 258,
+    "time": 272,
+    "timeDay": 272,
+    "timeWeek": 272,
+    "timeMonth": 272,
+    "timeYear": 272,
     "dailyMinutesDown": {}
   },
   {
