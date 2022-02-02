@@ -24,6 +24,7 @@ assignees:
  
 
 status-website:
+  themeUrl: https://example.com/my-custom-theme.css
   baseUrl: /monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
