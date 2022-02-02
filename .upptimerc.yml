@@ -24,10 +24,9 @@ assignees:
  
 
 status-website:
-  themeUrl: https://mario-galindo.github.io/monitor/my-custom-theme.css
   baseUrl: /monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: FPM Service Status
   introTitle: "**FPM Status Monitor**"
   introMessage: Status page which uses **real-time** data.
   navbar:
