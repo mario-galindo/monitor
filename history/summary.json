@@ -40,19 +40,19 @@
     "url": "https://devmqueue.airlinemro.parts",
     "icon": "https://favicons.githubusercontent.com/devmqueue.airlinemro.parts",
     "slug": "fpm-dev-manual-queue-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 306,
-    "timeDay": 311,
-    "timeWeek": 312,
-    "timeMonth": 319,
-    "timeYear": 306,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "97.63%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.94%",
+    "time": 304,
+    "timeDay": 280,
+    "timeWeek": 301,
+    "timeMonth": 316,
+    "timeYear": 304,
     "dailyMinutesDown": {
-      "2022-03-11": 0
+      "2022-03-11": 34
     }
   },
   {
