@@ -40,18 +40,20 @@
     "url": "https://devmqueue.airlinemro.parts",
     "icon": "https://favicons.githubusercontent.com/devmqueue.airlinemro.parts",
     "slug": "fpm-dev-manual-queue-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 303,
-    "timeDay": 205,
-    "timeWeek": 297,
-    "timeMonth": 316,
-    "timeYear": 303,
-    "dailyMinutesDown": {}
+    "time": 306,
+    "timeDay": 311,
+    "timeWeek": 312,
+    "timeMonth": 319,
+    "timeYear": 306,
+    "dailyMinutesDown": {
+      "2022-03-11": 0
+    }
   },
   {
     "name": "FPM[Dev] | Frontend",
